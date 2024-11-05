@@ -83,9 +83,9 @@ If you find our work useful in your research, please consider citing:
 
 ```
 @article{guo2024controlagent,
-  title={ControlAgent: Automating Control System Design with LLM Agents and Domain Expertise},
-  author={Xingang, Guo and Kevian, Darioush and Syed, Usman and Lianhui, Qin and Huan, Zhang and Dullerud, Geir and Seiler, Peter and Hu, Bin},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  title={ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise},
+  author={Guo, Xingang and Keivan, Darioush and Syed, Usman and Qin, Lianhui and Zhang, Huan and Dullerud, Geir and Seiler, Peter and Hu, Bin},
+  journal={arXiv preprint arXiv:2410.19811},
   year={2024}
 }
 ```
